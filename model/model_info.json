@@ -1,0 +1,9 @@
+{
+  "selected_model": "支持向量机 (SVM)",
+  "test_accuracy": 0.9,
+  "recon_threshold": 0.001493560486526262,
+  "pca_components": 87,
+  "known_class_count": 30,
+  "train_per_class": 14,
+  "holdout_classes": 20
+}
